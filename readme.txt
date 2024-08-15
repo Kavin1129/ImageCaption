@@ -1,4 +1,4 @@
-Image Caption Generation
+## Image Caption Generation
 Overview
 This project involves generating captions for images using a machine learning model. The model is designed to provide descriptive text for images, but please note that it is not perfect due to limitations in computational power.
 
